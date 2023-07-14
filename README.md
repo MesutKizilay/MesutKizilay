@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mesut KIZILAY</h1>
-<h3 align="center">A passionate backend developer from Turkey,I'm studying Computer Engineering at Eskisehir Osmangazi University.</h3>
+<h3 align="center">A passionate backend developer from Turkey,I've finished Computer Engineering at Eskisehir Osmangazi University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesutkizilay&label=Profile%20views&color=0e75b6&style=flat" alt="mesutkizilay" /> </p>
 
